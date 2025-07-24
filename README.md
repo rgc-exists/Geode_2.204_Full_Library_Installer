@@ -2,7 +2,7 @@
 
 Install Geode and the ENTIRE library at the time for 2.204 Geometry Dash.
 
-# IMPORTANT: This is meant ONLY for GDPSes that are stuck on 2.204, or NEW copies of GD that are for some reason still on 2.204.
+# IMPORTANT: This is meant ONLY for GDPSes that are stuck on 2.204!!!
 
 **Running this on a GDPS _(or the original game)_ with a later version of geode will _replace the config file for 2.206+ Geode._, EVEN IF the exe file is in a different location than you normal play on.**
 
